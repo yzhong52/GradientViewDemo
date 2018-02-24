@@ -12,6 +12,7 @@
 		4B7EB9F32041C8EF008E067F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B7EB9F12041C8EF008E067F /* Main.storyboard */; };
 		4B7EB9F52041C8EF008E067F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B7EB9F42041C8EF008E067F /* Assets.xcassets */; };
 		4B7EB9F82041C8EF008E067F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B7EB9F62041C8EF008E067F /* LaunchScreen.storyboard */; };
+		4B7EBA002041C969008E067F /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7EB9FF2041C969008E067F /* GradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4B7EB9F42041C8EF008E067F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B7EB9F72041C8EF008E067F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4B7EB9F92041C8EF008E067F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B7EB9FF2041C969008E067F /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				4B7EB9ED2041C8EF008E067F /* AppDelegate.swift */,
 				4B7EB9EF2041C8EF008E067F /* ViewController.swift */,
+				4B7EB9FF2041C969008E067F /* GradientView.swift */,
 				4B7EB9F12041C8EF008E067F /* Main.storyboard */,
 				4B7EB9F42041C8EF008E067F /* Assets.xcassets */,
 				4B7EB9F62041C8EF008E067F /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				4B7EB9F02041C8EF008E067F /* ViewController.swift in Sources */,
 				4B7EB9EE2041C8EF008E067F /* AppDelegate.swift in Sources */,
+				4B7EBA002041C969008E067F /* GradientView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
